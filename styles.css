@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-size: xx-large;
+    background-color: slateblue;
+    color: white;
+}
+a{
+    color: white;
+}
+h1{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+.button{
+    font-size: 24px;
+}
